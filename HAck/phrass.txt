@@ -1,0 +1,29 @@
+accediendo a la base de datos...
+creando archivos
+entrando a la puerta trasera....
+conectando MySql....
+Realizando Inyección
+Creando archivos...
+Intentando
+Intentando
+Intentando
+Intentando
+Intentando
+Intentando
+Intentando
+Intentando
+Intentando
+Intentando
+Intentando
+Intentando
+Intentando
+Intentando
+Intentando
+Intentando
+Intentando
+Intentando
+Intentando
+Intentando
+Hackeo exitoso!
+Cuenta hackeada exitosamente!
+Creando Archivos....
